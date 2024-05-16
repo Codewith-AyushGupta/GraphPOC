@@ -1,0 +1,12 @@
+System Requirements:
+  •	Node
+  •	React 
+  •	NPM
+  •	Redux
+Steps to Follow:
+  •	Clone code from git
+  •	Open Code in VS-Code.
+  •	Rum npm I or  npm install ( this load or downmload all the project related dependencies in local ).
+  •	In src folder all the components are located.
+  •	Start to read code from index.js located in src folder.
+  •	To run the code just run npm start
